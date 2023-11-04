@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/index.html</loc>
     <lastmod>2023-11-04T22:13:19+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/coding/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</loc>
     <lastmod>2023-11-04T22:13:19+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/coding/subject2/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</loc>
+    <lastmod>2023-11-04T22:13:19+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/subject2/index.html</loc>
     <lastmod>2023-11-04T21:58:38+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/coding/subject1/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/subject1/index.html</loc>
     <lastmod>2023-11-04T21:58:31+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/intro/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</loc>
     <lastmod>2023-11-04T21:57:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</loc>
+    <lastmod>2023-11-04T21:57:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/tags/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/tags/index.html</loc>
   </url>
 </urlset>

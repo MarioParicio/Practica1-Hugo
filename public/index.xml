@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://example.org/index.html</link>
+    <link>https://MarioParicio.github.io/Practica1-Hugo/index.html</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Nov 2023 22:13:19 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://MarioParicio.github.io/Practica1-Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming</title>
-      <link>https://example.org/coding/index.html</link>
+      <link>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</link>
       <pubDate>Sat, 04 Nov 2023 22:13:19 +0100</pubDate>
-      <guid>https://example.org/coding/index.html</guid>
+      <guid>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</guid>
       <description>Introduction to programming Lorem ipsum
 ###BBDD</description>
     </item>
     <item>
       <title>General</title>
-      <link>https://example.org/intro/index.html</link>
+      <link>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</link>
       <pubDate>Sat, 04 Nov 2023 21:57:28 +0100</pubDate>
-      <guid>https://example.org/intro/index.html</guid>
+      <guid>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</guid>
       <description>General information This is the content
 Title 1 Title 2 This is text with format. This is also.
 var x = new Boolear(true); if (x){ console.log(&amp;#39;Approved&amp;#39;); }</description>
