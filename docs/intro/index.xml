@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on My New Hugo Site</title>
+    <link>https://example.org/intro/index.html</link>
+    <description>Recent content in General on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Nov 2023 21:57:28 +0100</lastBuildDate>
+    <atom:link href="https://example.org/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>https://example.org/intro/index.html</link>
+      <pubDate>Sat, 04 Nov 2023 21:57:28 +0100</pubDate>
+      <guid>https://example.org/intro/index.html</guid>
+      <description>General information This is the content
+#Title 1
+Title 2 This is text with format. This is also.
+var x = new Boolear(true); if (x){ console.log(&amp;#39;Approved&amp;#39;); }</description>
+    </item>
+  </channel>
+</rss>
