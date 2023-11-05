@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/index.html</loc>
-    <lastmod>2023-11-04T22:13:19+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</loc>
-    <lastmod>2023-11-04T22:13:19+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/index.html</loc>
-    <lastmod>2023-11-04T22:13:19+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/subject2/index.html</loc>
-    <lastmod>2023-11-04T21:58:38+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/coding/subject1/index.html</loc>
-    <lastmod>2023-11-04T21:58:31+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</loc>
-    <lastmod>2023-11-04T21:57:28+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/intro/index.html</loc>
-    <lastmod>2023-11-04T21:57:28+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>https://MarioParicio.github.io/Practica1-Hugo/tags/index.html</loc>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/categories/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/citas/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/codigo/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/codigos-de-bloque/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/encabezados/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enfasis/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enlaces/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/imagenes/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/listas/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/parrafos/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/reglas-horizontales/</loc>
+  </url><url>
+    <loc>https://MarioParicio.github.io/Practica1-Hugo/tags/</loc>
   </url>
 </urlset>

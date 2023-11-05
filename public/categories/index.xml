@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://MarioParicio.github.io/Practica1-Hugo/categories/index.html</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Mi Guía de Markdown</title>
+    <link>https://MarioParicio.github.io/Practica1-Hugo/categories/</link>
+    <description>Recent content in Categories on Mi Guía de Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <atom:link href="https://MarioParicio.github.io/Practica1-Hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
