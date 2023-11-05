@@ -1,4 +1,19 @@
 baseURL = 'https://MarioParicio.github.io/Practica1-Hugo/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'relearn'
+languageCode = "es-es"
+title = "Mi Guía de Markdown"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "guia-markdown"
+    name = "Guía de Markdown"
+    url = "/guia-markdown/"
+    weight = 2
+
