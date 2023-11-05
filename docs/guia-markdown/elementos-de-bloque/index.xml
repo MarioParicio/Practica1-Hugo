@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mi Guía de Markdown</title>
-    <link>https://MarioParicio.github.io/Practica1-Hugo/</link>
-    <description>Recent content on Mi Guía de Markdown</description>
+    <title>Elementos de Bloque en Markdown on Mi Guía de Markdown</title>
+    <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/</link>
+    <description>Recent content in Elementos de Bloque en Markdown on Mi Guía de Markdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://MarioParicio.github.io/Practica1-Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Citas en Markdown</title>
       <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-bloque/citas/</link>
@@ -22,17 +21,6 @@ Puedes anidar citas utilizando múltiples signos &amp;gt;.
 &amp;gt; Esto es una cita. &amp;gt;&amp;gt; Esto es una cita anidada. Resultado:
 Esto es una cita.
 Esto es una cita anidada.</description>
-    </item>
-    <item>
-      <title>Código en Línea en Markdown</title>
-      <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/codigo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/codigo/</guid>
-      <description>Para referenciar código dentro de un párrafo, utiliza comillas invertidas simples (`). Esto es útil cuando deseas mencionar una variable, una función o un comando específico.
-Ejemplo:
-Para instalar Hugo, ejecuta el comando `brew install hugo`. Resultado:
-Para instalar Hugo, ejecuta el comando brew install hugo.
-Finalmente, veamos cómo enriquecer nuestros artículos con Imágenes →, dándoles vida y color a nuestras palabras.</description>
     </item>
     <item>
       <title>Códigos de Bloque en Markdown</title>
@@ -52,43 +40,6 @@ Ejemplo de bloque de código sin especificar lenguaje (En los ejemplos se deja u
 Ejemplo:
 # Encabezado Nivel 1 ## Encabezado Nivel 2 ### Encabezado Nivel 3 #### Encabezado Nivel 4 ##### Encabezado Nivel 5 ###### Encabezado Nivel 6 Resultado:
 Encabezado Nivel 1 Encabezado Nivel 2 Encabezado Nivel 3 Encabezado Nivel 4 Encabezado Nivel 5 Encabezado Nivel 6 Los encabezados organizan tu texto y ayudan a los lectores a navegar a través de tu contenido.</description>
-    </item>
-    <item>
-      <title>Énfasis en Markdown</title>
-      <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enfasis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enfasis/</guid>
-      <description>Markdown utiliza asteriscos (*) y guiones bajos (_) para el texto en itálica y negrita.
-Ejemplo de itálica:
-*Esto estará en itálica* o _esto también estará en itálica_. Resultado:
-Esto estará en itálica o esto también estará en itálica.
-Ejemplo de negrita:
-**Esto estará en negrita** o __esto también estará en negrita__. Resultado:
-Esto estará en negrita o esto también estará en negrita.
-Para un mayor énfasis, puedes combinar ambos:</description>
-    </item>
-    <item>
-      <title>Enlaces en Markdown</title>
-      <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enlaces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/enlaces/</guid>
-      <description>Crear enlaces en Markdown es sencillo y directo. Utiliza corchetes para el texto del enlace seguido de paréntesis para la URL.
-Ejemplo:
-Visita [Markdown Documentation](https://www.markdownguide.org/) para más información. Resultado:
-Visita Markdown Documentation para más información.
-Puedes también incluir un título opcional que aparecerá como un tooltip al pasar el ratón sobre el enlace:
-Visita [Markdown Documentation](https://www.markdownguide.org/ &amp;#34;Homepage de markdown documentation) para más información. Resultado:
-Visita Markdown Documentation para más información.</description>
-    </item>
-    <item>
-      <title>Imágenes en Markdown</title>
-      <link>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/imagenes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MarioParicio.github.io/Practica1-Hugo/guia-markdown/elementos-de-linea/imagenes/</guid>
-      <description>Insertar imágenes en Markdown es casi tan fácil como insertar enlaces. Solo necesitas preceder el texto de enlace con un signo de exclamación (!), seguido de los corchetes y paréntesis como en los enlaces.
-Ejemplo:
-![Markdown Logo alternative text](//assets/Markdown.png &amp;#34;Markdown Logo&amp;#34;) Resultado: Visita Markdown Documentation
-El texto alternativo es importante para la accesibilidad y el SEO, mientras que el título es opcional y aparecerá como un tooltip.</description>
     </item>
     <item>
       <title>Listas en Markdown</title>
